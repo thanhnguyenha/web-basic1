@@ -1,0 +1,22 @@
+/* Bài 20 — Grid (2): grid-column, grid-row */
+
+.o {
+  background: #a7f3d0;
+  padding: 20px;
+  text-align: center;
+}
+
+#bang-luoi {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 80px 120px;
+  gap: 8px;
+  background: #ecfdf5;
+  margin-bottom: 16px;
+}
+
+#o-rong {
+  background: #0d8f7c;
+  color: white;
+}
+

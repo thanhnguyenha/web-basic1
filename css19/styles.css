@@ -1,0 +1,14 @@
+/* Bài 19 — Grid (1): display: grid, grid-template */
+
+.o {
+  background: #99f6e4;
+  padding: 24px;
+  text-align: center;
+  font-weight: 600;
+}
+
+#bang-luoi {
+  background: #ecfdf5;
+  margin-bottom: 16px;
+}
+

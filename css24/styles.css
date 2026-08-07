@@ -1,0 +1,12 @@
+/* Bài 24 — @keyframes + animation */
+
+.hop {
+  width: 200px;
+  padding: 20px;
+  background: #0d8f7c;
+  color: white;
+  text-align: center;
+  font-weight: 600;
+  margin: 24px 0;
+}
+

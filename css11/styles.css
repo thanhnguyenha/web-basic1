@@ -1,0 +1,9 @@
+/* Bài 11 — min-width, max-width, min-height, max-height */
+
+.box {
+  background: #ecfdf5;
+  border: 1px solid #99f6e4;
+  padding: 12px;
+  margin-bottom: 16px;
+}
+

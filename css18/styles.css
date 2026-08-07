@@ -1,0 +1,19 @@
+/* Bài 18 — position: fixed */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+#noi-dung {
+  padding: 16px;
+  min-height: 900px;
+}
+
+#thanh-tren {
+  background: #0d8f7c;
+  color: white;
+  padding: 12px 16px;
+  font-weight: 600;
+}
+

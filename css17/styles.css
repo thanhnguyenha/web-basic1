@@ -1,0 +1,18 @@
+/* Bài 17 — position: absolute + top/right/bottom/left */
+
+#khung {
+  background: #ecfdf5;
+  border: 1px solid #99f6e4;
+  min-height: 160px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+#nhan {
+  background: crimson;
+  color: white;
+  padding: 4px 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+

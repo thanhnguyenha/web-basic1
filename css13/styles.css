@@ -1,0 +1,13 @@
+/* Bài 13 — Flexbox (1): display, flex-direction, justify-content, align-items */
+
+.muc {
+  background: #99f6e4;
+  padding: 12px 16px;
+}
+
+#thanh-cong-cu {
+  background: #ecfdf5;
+  min-height: 80px;
+  margin-bottom: 16px;
+}
+

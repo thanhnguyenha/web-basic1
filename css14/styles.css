@@ -1,0 +1,14 @@
+/* Bài 14 — Flexbox (2): flex, flex-wrap, gap, align-self */
+
+.the {
+  background: #a7f3d0;
+  padding: 16px;
+  min-width: 100px;
+}
+
+#luoi-the {
+  background: #ecfdf5;
+  min-height: 140px;
+  margin-bottom: 16px;
+}
+
